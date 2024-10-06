@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cedarville+Cursive&pause=1000&color=5A5A4D&width=435&lines=Hello%2C+my+name+is+Yulianys+Cedeno)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/7f/37/15/7f3715f39f8494fb6f27869fb2037804.gif" alt="Banner" width="100%" height="300">
+<img src="https://github.com/yuliglocky/yuliglocky/blob/main/images/banner.gif?raw=true" alt="Banner" width="90%" height="200">
 
 ### Technologies and tools:
 
@@ -18,7 +18,7 @@
 ### Cards en Movimiento
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/yuliglocky/tu-repositorio/blob/main/images/card1.gif?raw=true" alt="Card 1" width="300" height="200" style="border: 2px solid #5A5A4D; border-radius: 10px;">
+  <img src="https://github.com/yuliglocky/yuliglocky/blob/main/images/banner.gif?raw=true" alt="Card 1" width="300" height="200" style="border: 2px solid #5A5A4D; border-radius: 10px;">
   <img src="https://github.com/yuliglocky/tu-repositorio/blob/main/images/card2.gif?raw=true" alt="Card 2" width="300" height="200" style="border: 2px solid #5A5A4D; border-radius: 10px;">
   <img src="https://github.com/yuliglocky/tu-repositorio/blob/main/images/card3.gif?raw=true" alt="Card 3" width="300" height="200" style="border: 2px solid #5A5A4D; border-radius: 10px;">
 </div>
